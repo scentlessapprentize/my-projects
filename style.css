@@ -1,0 +1,25 @@
+body{
+border-width:2px;
+border-style:solid;
+border-color:black;
+padding: 50px;
+}
+hr{
+    border-width: 1px;
+    border-color: black;
+    width: 550px;
+    margin-left:0%;
+}
+.green{
+    color:green;
+}
+.blue {
+    color:blue;
+}
+h2 {
+    font-size: medium;
+}
+h2.blue{
+    font-size: 110%;
+    margin-bottom: -15px;
+}
